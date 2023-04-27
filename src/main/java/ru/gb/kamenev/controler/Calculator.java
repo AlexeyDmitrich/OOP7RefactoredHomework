@@ -10,27 +10,27 @@ public class Calculator<N extends Number> {
         return sum;
     }
 
-    N subtraction (N arg1, N arg2){
+    public N subtraction (N arg1, N arg2){
         N sub = (N) arg1.subtraction(arg2);
         return sub;
     }
 
-    N multiplication (N arg1, N arg2){
+    public N multiplication (N arg1, N arg2){
         N mult = (N) arg1.multiplication(arg2);
         return mult;
     }
 
-    N division (N arg1, N arg2){
+    public N division (N arg1, N arg2){
         N div = (N) arg1.division(arg2);
         return div;
     }
 
-    N sqrt (N arg){
+    public N sqrt (N arg){
         N sq = (N) arg.sqrt();
         return sq;
     }
 
-    N exp (N arg){
+    public N exp (N arg){
         N xp = (N) arg.exp();
         return xp;
     }
