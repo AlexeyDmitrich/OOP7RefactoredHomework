@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="140f097b-763e-4e0c-a2d5-ebdd12243846" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/controler/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/model/Cash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/model/FileOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/model/FileOperationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/model/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/model/Loggable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/view/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/view/Gui.java" afterDir="false" />
+    <list default="true" id="140f097b-763e-4e0c-a2d5-ebdd12243846" name="Changes" comment="осатлось подтянуть файлы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/controler/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/controler/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/model/ComplexAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/model/ComplexAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/view/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/gb/kamenev/view/Gui.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682334750846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="осатлось подтянуть файлы">
+      <created>1682614661580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682614661580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="осатлось подтянуть файлы" />
+    <option name="LAST_COMMIT_MESSAGE" value="осатлось подтянуть файлы" />
   </component>
 </project>
